@@ -38,6 +38,8 @@ docker run -p 80:80 -t imagen-custom
 
 ## Implementación Docker Swarm
 
+Para ejecutar estas instrucciones, debemos ejecutar previamente los pasos 1 y 2 de **Implementación Docker**
+
 1.- Iniciamos Docker Swarm
 
 ```
